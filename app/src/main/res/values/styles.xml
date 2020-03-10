@@ -1,0 +1,108 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+        <item name="backgroundColor">@color/colorPrimary</item>
+        <item name="white">@color/colorWhite</item>
+        <item  name="textColor">@color/colorWhite</item>
+
+        <item  name="cellTextColor">@color/GreyBlue</item>
+        <item  name="cellTextColorOff">@color/LightGrey</item>
+        <item  name="cellTextColorToday">@color/colorPrimary</item>
+
+
+
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="Lime" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/mintColorPrimary</item>
+        <item name="colorPrimaryDark">@color/mintColorPrimary</item>
+        <item name="colorAccent">@color/mintColorAccent</item>
+        <item name="android:navigationBarColor">@color/colorWhite</item>
+        <item name="backgroundColor">@color/mintColorPrimary</item>
+        <item  name="textColor">@color/colorWhite</item>
+
+        <item  name="cellTextColor">@color/GreyBlue</item>
+        <item  name="cellTextColorOff">@color/LightGrey</item>
+        <item  name="cellTextColorToday">@color/mintColorPrimary</item>
+    </style>
+
+
+    <style name="brown" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/brownprimary</item>
+        <item name="colorPrimaryDark">@color/brownprimary</item>
+        <item name="colorAccent">@color/brownaccent</item>
+        <item name="android:navigationBarColor">@color/colorWhite</item>
+        <item name="backgroundColor">@color/brownprimary</item>
+        <item  name="textColor">@color/colorWhite</item>
+
+        <item  name="cellTextColor">@color/GreyBlue</item>
+        <item  name="cellTextColorOff">@color/LightGrey</item>
+        <item  name="cellTextColorToday">@color/brownprimary</item>
+    </style>
+
+
+
+    <style name="orange" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/orangeprimary</item>
+        <item name="colorPrimaryDark">@color/orangeprimary</item>
+        <item name="colorAccent">@color/orangeaccent</item>
+        <item name="android:navigationBarColor">@color/colorWhite</item>
+        <item name="backgroundColor">@color/orangeprimary</item>
+        <item  name="textColor">@color/colorWhite</item>
+
+        <item  name="cellTextColor">@color/GreyBlue</item>
+        <item  name="cellTextColorOff">@color/LightGrey</item>
+        <item  name="cellTextColorToday">@color/orangeprimary</item>
+    </style>
+
+
+    <style name="green" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/greenprimary</item>
+        <item name="colorPrimaryDark">@color/greenprimary</item>
+        <item name="colorAccent">@color/greenaccent</item>
+        <item name="android:navigationBarColor">@color/colorWhite</item>
+        <item name="backgroundColor">@color/greenprimary</item>
+        <item  name="textColor">@color/colorWhite</item>
+
+        <item  name="cellTextColor">@color/GreyBlue</item>
+        <item  name="cellTextColorOff">@color/LightGrey</item>
+        <item  name="cellTextColorToday">@color/greenprimary</item>
+    </style>
+
+
+
+    <style name="lightgreen" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/lightgreenprimary</item>
+        <item name="colorPrimaryDark">@color/lightgreenprimary</item>
+        <item name="colorAccent">@color/lightgreenaccent</item>
+        <item name="android:navigationBarColor">@color/colorWhite</item>
+        <item name="backgroundColor">@color/lightgreenprimary</item>
+        <item  name="textColor">@color/colorWhite</item>
+
+        <item  name="cellTextColor">@color/GreyBlue</item>
+        <item  name="cellTextColorOff">@color/LightGrey</item>
+        <item  name="cellTextColorToday">@color/lightgreenprimary</item>
+    </style>
+
+</resources>

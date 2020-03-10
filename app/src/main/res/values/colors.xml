@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5856D6</color>
+    <color name="colorPrimaryDark">#5856D6</color>
+    <color name="colorAccent">#5856D6</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="ImperialRed">#ED2939</color>
+    <color name="LightGrey">#d1d1d6</color>
+    <color name="GreyBlue">#677a8f</color>
+
+    <color name="mintColorPrimary">#76be2f</color>
+    <color name="mintColorPrimaryDark">#289b23</color>
+    <color name="mintColorAccent">#f9a825</color>
+    <color name="mintPrimaryText">#424242</color>
+    <color name="mintButtonNormal">#76be2f</color>
+    <color name="mintButtonHighlight">#81c784</color>
+    <color name="mintButtonText">#FFFFFF</color>
+
+
+    <color name="brownprimary">#795548</color>
+    <color name="brownprimary_dark">#5D4037</color>
+    <color name="brownprimary_light">#D7CCC8</color>
+    <color name="brownaccent">#FF9800</color>
+    <color name="brownprimary_text">#212121</color>
+    <color name="brownsecondary_text">#757575</color>
+    <color name="brownicons">#FFFFFF</color>
+    <color name="browndivider">#BDBDBD</color>
+
+    <color name="orangeprimary">#FF5722</color>
+    <color name="orangeprimary_dark">#E64A19</color>
+    <color name="orangeprimary_light">#FFCCBC</color>
+    <color name="orangeaccent">#FF9800</color>
+    <color name="orangeprimary_text">#212121</color>
+    <color name="orangesecondary_text">#757575</color>
+    <color name="orangeicons">#FFFFFF</color>
+    <color name="orangedivider">#BDBDBD</color>
+
+
+    <color name="greenprimary">#4CAF50</color>
+    <color name="greenprimary_dark">#388E3C</color>
+    <color name="greenprimary_light">#C8E6C9</color>
+    <color name="greenaccent">#4CAF50</color>
+    <color name="greenprimary_text">#212121</color>
+    <color name="greensecondary_text">#757575</color>
+    <color name="greenicons">#FFFFFF</color>
+    <color name="greendivider">#BDBDBD</color>
+
+
+    <color name="lightgreenprimary">#8BC34A</color>
+    <color name="lightgreenprimary_dark">#689F38</color>
+    <color name="lightgreenprimary_light">#DCEDC8</color>
+    <color name="lightgreenaccent">#FF5722</color>
+    <color name="lightgreenprimary_text">#212121</color>
+    <color name="lightgreensecondary_text">#757575</color>
+    <color name="lightgreenicons">#212121</color>
+    <color name="lightgreendivider">#BDBDBD</color>
+
+
+
+
+
+    <color name="textPrimary">#f5f5f5</color>
+    <color name="textPrimaryDark">#95aab4</color>
+    <color name="errorText">#ff7878</color>
+</resources>

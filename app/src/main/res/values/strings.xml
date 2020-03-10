@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">ማስታወሻ +</string>
+    <string name="add_event">Add Event</string>
+    <string name="settings">Settings</string>
+
+
+    <string name="memo">ማስታወሻ</string>
+    <string name="calendar">የቀን መቁጠሪያ</string>
+    <string name="agenda">አጀንዳ</string>
+    <string name="sun">እሁድ</string>
+    <string name="mon">ሰኞ</string>
+    <string name="tue">ማክሰኞ</string>
+    <string name="wed">ረቡእ</string>
+    <string name="thu">ሃሙስ</string>
+    <string name="fri">አርብ</string>
+    <string name="sat">ቅዳሜ</string>
+
+    <string name="month1">መስከረም</string>
+    <string name="month2">ጥቅምት</string>
+    <string name="month3">ህዳር</string>
+    <string name="month4">ታህሳስ</string>
+    <string name="month5">ጥር</string>
+    <string name="month6">የካቲት</string>
+    <string name="month7">መጋቢት</string>
+    <string name="month8">ሚያዚያ</string>
+    <string name="month9">ግንቦት</string>
+    <string name="month10">ሰኔ</string>
+    <string name="month11">ኅምሌ</string>
+    <string name="month12">ነኅሴ</string>
+    <string name="month13">ጳጉሜ</string>
+    <string name="last_date">30</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="convert_date_dialog_title">Convert Date</string>
+    <string name="ok_button">Done</string>
+    <string name="today">Today</string>
+
+
+    <string-array name="themes">
+        <item>purpleSmoke</item>
+        <item>Lime</item>
+        <item>Brown</item>
+        <item>Orange</item>
+        <item>green</item>
+        <item>LightGreen</item>
+    </string-array>
+
+    <string-array name="lan">
+        <item>Amharic</item>
+        <item>Tigriga</item>
+        <item>Oromiga</item>
+        <item>Default</item>
+    </string-array>
+
+    <string-array name="lanID">
+        <item>am</item>
+        <item>tr</item>
+        <item>om</item>
+        <item>am</item>
+    </string-array>
+    <string-array name="themeID">
+        <item>Theme1</item>
+        <item>Theme2</item>
+        <item>Theme3</item>
+        <item>Theme4</item>
+        <item>Theme5</item>
+        <item>Theme6</item>
+    </string-array>
+
+    <string name="OK">OK</string>
+    <string name="def_theme">purpleSmoke</string>
+    <string name="theme_summary">Change the apperance of the app</string>
+    <string name="lan_summary">Change the Language of the app</string>
+    <string name="theme_dialog_title">Theme</string>
+    <string name="no_events">No Events</string>
+    <string name="gregorian_calander">Gregorian Calander</string>
+    <string name="ethiopian_calander">Ethiopian Calander</string>
+    <string name="to_gregorian">to Gregorian</string>
+    <string name="to_ethiopian">to Ethiopian</string>
+    <string name="cancel_button">cancel</string>
+
+
+    <string name="title_fingerprint">One-touch Sign In</string>
+    <string name="desc_fingerprint">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="note">(Fingerprint sign in makes your app login much faster. Your device should have at least one fingerprint registered in device settings)</string>
+    <string name="title_activity_home">Fingerprint</string>
+    <string name="activity_home_desc">You have successfully logged in with fingerprint authentication</string>
+    <string name="activity_home_note">Close and re-open the app to see the fingerprint auth screen again</string>
+    <string name="title_activity_main_actiity">MainActiity</string>
+    <string name="add_Note">Add Note</string>
+    <string name="save_alaram">save alaram</string>
+    <string name="label">Label</string>
+    <string name="delete_alarm">Delete Alarm</string>
+    <string name="add_note">Add Note</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="press_the_button_to_record_audio">Press the Button to Record Audio</string>
+    <string name="play">PLAY</string>
+    <string name="delete">DELETE</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="send_notfication">Send Notfication</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="convert">Convert</string>
+    <string name="month">MONTH</string>
+    <string name="year">Year</string>
+    <string name="date">Date</string>
+    <string name="language">Language</string>
+
+</resources>
